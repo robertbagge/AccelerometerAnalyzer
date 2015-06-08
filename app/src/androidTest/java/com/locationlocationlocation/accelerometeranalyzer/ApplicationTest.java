@@ -1,4 +1,4 @@
-package com.locationlocationlocation.accelereomteranalyser;
+package com.locationlocationlocation.accelerometeranalyzer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
